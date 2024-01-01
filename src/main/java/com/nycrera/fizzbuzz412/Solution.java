@@ -1,4 +1,4 @@
-package com.nycrera.fizzbuzz;
+package com.nycrera.fizzbuzz412;
 
 
 import java.util.ArrayList;
@@ -38,3 +38,5 @@ public class Solution {
         return answer;
     }
 }
+
+// https://leetcode.com/problems/fizz-buzz/
